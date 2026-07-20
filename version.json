@@ -1,8 +1,7 @@
 {
-  "version": "V1.3-beta2",
+  "version": "V1.3-beta3",
   "release_date": "2026-07-20",
-  "url": "https://github.com/Randylinux/erp-backup-V1/releases/download/v1.3-beta2/WorkshopManager_Setup_1.3.exe",
-  "checksum_sha256": "2c6e8f6e0a7fc4aea9ec934b04ed3e9939fcd5523bfa961213511400b3760c3a",
+  "checksum_sha256": "bef819723f9ef7efdb44f1a191a8b185823b6a40cd10c9d2462f68726236a89d",
   "changelog": "Zie GitHub Release",
   "critical": false
 }
