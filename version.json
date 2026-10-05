@@ -1,7 +1,7 @@
 {
-  "version": "V1.4.735",
+  "version": "V1.4.736",
   "release_date": "2026-10-05",
-  "checksum_sha256": "c27ae6b38c39abcc78dd3f75122e4fc12fb8b1a641e17721283d66694cc9edfe",
+  "checksum_sha256": "49bae58f0d358e84bbdf7410b7e5c0d43e28027ba7aadad6cd74165232c76631",
   "changelog": "Zie GitHub Release",
   "critical": false
 }
